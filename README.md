@@ -9,3 +9,6 @@ Afnan
 
  # programming language
  JavaScript
+
+ # origin command
+  origin
