@@ -6,3 +6,6 @@ Afnan
 
 # github
  learning
+
+ # programming language
+ JavaScript
